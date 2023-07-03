@@ -26,3 +26,9 @@ jobs:
     - name: Format code
       run: |
         make format
+    - name: Build docker
+      run: |
+        make build
+    - name: Deploy docker
+      run: |
+        make deploy

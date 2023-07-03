@@ -5,10 +5,15 @@ https://www.youtube.com/watch?v=SqFFCTNyi88
 
 # In this tutorial, we learn about:
 ## Makefile
-## Github Actions / Github CI
+## Github Actions / Github CI (Continuous Intergration)
 ### The setup is inside file python_base/.github/workflows/devops.yml
 ### Whenever we run git push, it will automatically run this CI
 ### It will install python 3.8 and run everything we setup in Makefile
 
 ### Here's the link so we can check the process of own CI:
 [![Python application test with Github Actions](https://github.com/congson95dev/python_base/actions/workflows/devops.yml/badge.svg)](https://github.com/congson95dev/python_base/actions/workflows/devops.yml)
+
+## Requirements.txt
+## Black (a library to format code)
+## Pylint (a library to check coding convention)
+## Pytest and Pytest Coverage
