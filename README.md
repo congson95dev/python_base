@@ -18,6 +18,6 @@ https://www.youtube.com/watch?v=SqFFCTNyi88
 ## 6. Pytest and Pytest Coverage
 ## 7. Dockerfile
 ## 8. Github pull request template
-### Create file pull_request_template.md inside root folder, then push to master branch (other branch won't work)
+### Create file `pull_request_template.md` inside root folder, then push to `master` branch (other branch won't work)
 ### Now, whenever you create a new PR, it will automatic filled the body with above template
 ### To click to the checkbox of PR body, you need to fill the [X] (uppercase) inside the option
